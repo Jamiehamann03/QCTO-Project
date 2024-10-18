@@ -1,7 +1,4 @@
 # QCTO-Project
-Here's a sample **README** file for your avocado dataset project:
-
----
 
 # Avocado Sales and Pricing Dataset (2015-2023) - README
 
@@ -88,10 +85,6 @@ The dataset was explored using various visualization techniques:
 ---
 
 
-2. **Run exploratory data analysis (EDA)** using the provided visualizations and statistical methods.
-
-3. **Build predictive models** (if desired) to forecast avocado pricing or sales based on historical data trends.
-
 ---
 
 ## License:
@@ -114,5 +107,3 @@ For any questions or feedback, feel free to contact:
 This project provides a deep dive into avocado sales and pricing trends across various U.S. regions. By exploring the data through statistical summaries, visualizations, and potential predictive modeling, we gain insights into consumer behavior and market dynamics within the avocado industry.
 
 --- 
-
-This README file can be included in your project folder to explain the dataset, the project goals, and how to use the data. Feel free to adjust details as needed!
